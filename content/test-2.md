@@ -4,7 +4,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'twitter:card'
+      value: test
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---

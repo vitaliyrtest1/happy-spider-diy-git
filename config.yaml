@@ -35,7 +35,7 @@ params:
       - label: Get Started
         url: /pricing
         style: primary
-    has_anncmnt: false
+    has_anncmnt: true
     anncmnt_align: left
     anncmnt_is_home_only: true
     anncmnt_has_close: true
